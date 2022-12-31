@@ -1,0 +1,1 @@
+# This is a project exploring the management of users in a django project
